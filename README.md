@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there, I'm Rudra 👋
 
-<!--
-**RudraRAW/RudraRAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year BTech CSE student
+💻 Learning Python and Web Development
+🤖 Exploring Artificial Intelligence and AI tools
+🚀 Building projects and improving one step at a time
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python, HTML, and CSS
+- 🧠 I enjoy problem-solving and learning new things
+- 🛠️ Working on my coding skills and personal projects
+- 🎯 My goal is to build useful technology that solves real problems
+
+Languages and Technologies I'm Learning
+
+- Python
+- HTML
+- CSS
+- Git and GitHub
+
+Projects
+
+- ELDIO — A senior citizen coordinator app concept
+- More projects coming as I learn!
+
+A Little About Me
+
+I believe consistent effort and curiosity can turn ideas into reality. I'm here to learn, build, and grow as a developer.
+
+Thanks for visiting my profile! 😊
